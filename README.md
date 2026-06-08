@@ -17,6 +17,7 @@ git clone https://github.com/Tomascarv/sudoku-solver.git
 cd sudoku-solver
 python solver.py
 ```
+![Solver demo](original.png)(solved.png)
 👤 Author
 
 Tomas Carvalho Mendes – French high school student (Première)
