@@ -16,3 +16,9 @@ This project demonstrates my **algorithmic thinking** and **problem-solving skil
 git clone https://github.com/Tomascarv/sudoku-solver.git
 cd sudoku-solver
 python solver.py
+```
+👤 Author
+
+Tomas Carvalho Mendes – French high school student (Première)
+Aiming for Bachelor in AI in China – CSC scholarship applicant
+[GitHub](https://github.com/Tomascarv/)
