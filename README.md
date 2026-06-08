@@ -18,6 +18,8 @@ cd sudoku-solver
 python solver.py
 ```
 ![Solver demo](original.png)![Solver demo](solved.png)
+
+
 👤 Author
 
 Tomas Carvalho Mendes – French high school student (Première)
